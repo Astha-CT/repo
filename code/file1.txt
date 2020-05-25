@@ -6,3 +6,4 @@ This task is complete.
 >>>>>>> 18b79b603312abb33e380eaf8230d706ed05072b
 
 New task to begin
+begit it now
